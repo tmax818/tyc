@@ -28,7 +28,7 @@
 ## a review of the parts of a program
 ## summary
 
-# lesson 3: storing information: variables and constants
+# [lesson 3: storing information: variables and constants](./lesson03/README.md)
 
 ## understanding your computer's memory
 
@@ -44,7 +44,7 @@
 
 ## summary
 
-# lesson 4: the pieces of a C program: statements, expressions, and operators
+# [lesson 4: the pieces of a C program: statements, expressions, and operators](./lesson04/README.md)
 
 ## statements
 ## understanding expressions
