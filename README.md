@@ -56,7 +56,7 @@
 ## operator precedence revisited
 ## summary
 
-# lesson 5: packaging code in functions
+# [lesson 5: packaging code in functions](./lesson05/README.md)
 
 ## understanding functions
 ## how a function works
